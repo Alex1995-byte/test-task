@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.714" height="24.857" viewBox="0 0 40.714 24.857">
+  <defs>
+    <filter id="Эллипс_2258" x="0" y="0" width="24.857" height="24.857" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Компонент_90_2" data-name="Компонент 90 – 2" transform="translate(1.429 0.429)">
+    <rect id="Прямоугольник_7698" data-name="Прямоугольник 7698" width="39.286" height="22" rx="11" fill="#e4e4e4"/>
+    <g transform="matrix(1, 0, 0, 1, -1.43, -0.43)" filter="url(#Эллипс_2258)">
+      <circle id="Эллипс_2258-2" data-name="Эллипс 2258" cx="9.429" cy="9.429" r="9.429" transform="translate(3 2)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
